@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThesisPrototype</string>
+    <string name="title_activity_act">act</string>
+    <string name="appbar_scrolling_view_behavior" />
+</resources>
